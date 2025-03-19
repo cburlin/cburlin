@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @cburlin
+- ❤️ I love Jesus-Christ!
 - 👀 I’m interested in distributed systems, deep learning, cybersecurity and low level programming.
-- 🌱 I’m currently learning React and dynamic web programming.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on machine learning projects or learn on cyber threats.
 - 📫 How to reach me cburlin@alumni.stanford.edu
 
